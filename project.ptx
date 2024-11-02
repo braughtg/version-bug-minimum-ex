@@ -4,7 +4,7 @@
   <targets>
     <target name="web" format="html" />
     <target name="print" format="pdf" />
-    <target name="runestone" format="html" platform="runestone" publication="publication2.ptx" />
+    <target name="runestone" format="html" platform="runestone" />
   </targets>
 </project>
 
