@@ -5,4 +5,9 @@
 
   <p> Text of section. </p>
 
+  <p>Include this in all versions</p>
+  <p component="ver-a">Include this only in version ver-a</p>
+  <p component="ver-b">Include this only in version ver-b</p>
+  <p component="ver-c">Don't include this in ver-a or ver-b</p>
+  
 </section>
