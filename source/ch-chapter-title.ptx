@@ -8,6 +8,7 @@
     <p component="ver-a">Include this only in version ver-a</p>
     <p component="ver-b">Include this only in version ver-b</p>
     <p component="ver-c">Don't include this in ver-a or ver-b</p>
+    <p>with a change here</p>
   </introduction>
 
   <!-- include sections -->
