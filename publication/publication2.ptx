@@ -58,7 +58,7 @@
     <!-- Tests for the version element. -->
     <!-- There are lines in ch-chapter-title.ptx that are included or excluded -->
     <!-- based on these version elements. -->
-    <!-- <version include="ver-a"/> -->
+    <version include="ver-a"/>
     <!-- <version include="ver-b"/> -->
     <!-- <version include="ver-a ver-b"/> -->
   </source>
